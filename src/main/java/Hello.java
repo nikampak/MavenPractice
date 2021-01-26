@@ -5,5 +5,6 @@ public class Hello {
         // working working for the third commit
         System.out.println("Changes to the first file while opening the new" +
                 " branch, feature-d");
+        // more work from feature-d branch
     }
 }
